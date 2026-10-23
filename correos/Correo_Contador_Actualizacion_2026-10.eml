@@ -3,53 +3,53 @@ Subject: Power Apps BUAI =?utf-8?q?=C2=B7_Contador_de_personas=3A_Guardado_m?=
 X-Unsent: 1
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
- boundary="===============8302486705286729000=="
+ boundary="===============8785898656651624166=="
 
---===============8302486705286729000==
+--===============8785898656651624166==
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
 Contador de personas =C2=B7 Nueva versi=C3=B3n BIBLIOTECAS UAI =C2=B7 POWER A=
-PPS BUAI Contador de personas: Nueva versi=C3=B3n Disponible a partir de las =
-08:00 horas Estimad@s: Gracias a sus comentarios, publicamos una nueva versi=
-=C3=B3n del Contador. Desde ahora los conteos ya no se guardan en un Excel, s=
-ino en listas de SharePoint , que quedan visibles en mi p=C3=A1gina de ShareP=
-oint para quienes quieran revisarlas. A futuro, estas listas alimentar=C3=A1n=
- directamente Power BI ; ir=C3=A9 parametrizando todo de a poco. Los conteos =
-guardados en el Excel hasta el 22-10 ya fueron traspasados a las listas, as=
-=C3=AD que no se pierde ninguna ronda. Para actualizar: Refrescar la p=C3=A1g=
-ina de Power Apps (o cerrar y volver a abrir la app) y tocar Actualizar si ap=
-arece el aviso. ANTES Y AHORA Acci=C3=B3n Antes Ahora Anotar las personas Bot=
-ones =E2=88=92 y + Se escribe la cantidad Guardar una ronda 15 s o m=C3=A1s M=
-enos de 2 s Rondas guardadas a medias A veces faltaban espacios o sal=C3=ADan=
- en 0 Se guardan completas, en un solo env=C3=ADo Rondas repetidas Ocurr=C3=
-=ADan al tocar Guardar de nuevo Cada ronda se guarda una sola vez Corregir un=
-a ronda Espacio por espacio Cerca de 1 s Revisar la ocupaci=C3=B3n Hoy o =C3=
-=BAltimos 7 d=C3=ADas Cualquier d=C3=ADa, con calendario LO NUEVO 1 Escribir =
-la cantidad directamente. En cada espacio se toca la casilla y se escribe el =
-n=C3=BAmero de personas (en el celular se abre el teclado num=C3=A9rico). Los=
- espacios que a=C3=BAn no tienen dato se ven como Sin dato , y la app indica =
-cu=C3=A1ntos faltan. 2 Guardar siempre disponible. El bot=C3=B3n Guardar se p=
-uede usar en todo momento. Si quedan espacios sin dato, la app avisa cu=C3=A1=
-les son y, al guardar, quedan en 0. Para completar r=C3=A1pido est=C3=A1 el b=
-ot=C3=B3n opcional Poner 0 en los espacios vac=C3=ADos . 3 Ocupaci=C3=B3n por=
- fecha. La tabla de Ocupaci=C3=B3n tiene un calendario para elegir el d=C3=AD=
-a que se quiere revisar. Parte siempre en hoy, y los d=C3=ADas con rondas gua=
-rdadas se marcan con un punto. 4 Total de personas por bloque. Se agreg=C3=B3=
- la columna Personas (total) , que suma los conteos de todas las rondas de ca=
-da bloque (08=E2=80=9310, 11=E2=80=9313, 14=E2=80=9316 y 17=E2=80=9320). 5 Ed=
-if. A y Edif. F, un solo equipo. Quienes trabajan en el Edif. A o en el Edif.=
- F ahora pueden registrar rondas en ambas bibliotecas : Basta con elegir la b=
-iblioteca al empezar la ronda. PRUEBA EN VI=C3=91A DEL MAR =C2=B7 22-10 Prueb=
-a Espacios Tiempo en SharePoint Guardar ronda de las 13:00 26 Menos de 1 s Co=
-rrecci=C3=B3n 1 6 Menos de 1 s Correcci=C3=B3n 2 6 Menos de 1 s Correcci=C3=
-=B3n 3 7 Menos de 1 s Cada correcci=C3=B3n queda registrada con qui=C3=A9n la=
- hizo, cu=C3=A1ndo y el n=C3=BAmero anterior. Adjunto nuevamente el manual br=
-eve con los pasos para actualizar la app. Abrir Power Apps BUAI =E2=86=92 &nb=
-sp; Ver listas en SharePoint Cualquier duda o sugerencia, me escriben. Saludo=
-s.
+PPS BUAI Contador de personas: Nueva versi=C3=B3n Disponible a partir de hoy,=
+ viernes 23-10, a las 08:00 horas Estimad@s: Gracias a sus comentarios, publi=
+camos una nueva versi=C3=B3n del Contador. Desde ahora los conteos ya no se g=
+uardan en un Excel, sino en listas de SharePoint , que quedan visibles en mi =
+p=C3=A1gina de SharePoint para quienes quieran revisarlas. A futuro, estas li=
+stas alimentar=C3=A1n directamente Power BI ; ir=C3=A9 parametrizando todo de=
+ a poco. Los conteos guardados en el Excel hasta el 22-10 ya fueron traspasad=
+os a las listas, as=C3=AD que no se pierde ninguna ronda. Para actualizar: Re=
+frescar la p=C3=A1gina de Power Apps (o cerrar y volver a abrir la app) y toc=
+ar Actualizar si aparece el aviso. ANTES Y AHORA Acci=C3=B3n Antes Ahora Anot=
+ar las personas Botones =E2=88=92 y + Se escribe la cantidad Guardar una rond=
+a 15 s o m=C3=A1s Menos de 2 s Rondas guardadas a medias A veces faltaban esp=
+acios o sal=C3=ADan en 0 Se guardan completas, en un solo env=C3=ADo Rondas r=
+epetidas Ocurr=C3=ADan al tocar Guardar de nuevo Cada ronda se guarda una sol=
+a vez Corregir una ronda Espacio por espacio Cerca de 1 s Revisar la ocupaci=
+=C3=B3n Hoy o =C3=BAltimos 7 d=C3=ADas Cualquier d=C3=ADa, con calendario LO =
+NUEVO 1 Escribir la cantidad directamente. En cada espacio se toca la casilla=
+ y se escribe el n=C3=BAmero de personas (en el celular se abre el teclado nu=
+m=C3=A9rico). Los espacios que a=C3=BAn no tienen dato se ven como Sin dato ,=
+ y la app indica cu=C3=A1ntos faltan. 2 Guardar siempre disponible. El bot=C3=
+=B3n Guardar se puede usar en todo momento. Si quedan espacios sin dato, la a=
+pp avisa cu=C3=A1les son y, al guardar, quedan en 0. Para completar r=C3=A1pi=
+do est=C3=A1 el bot=C3=B3n opcional Poner 0 en los espacios vac=C3=ADos . 3 O=
+cupaci=C3=B3n por fecha. La tabla de Ocupaci=C3=B3n tiene un calendario para =
+elegir el d=C3=ADa que se quiere revisar. Parte siempre en hoy, y los d=C3=AD=
+as con rondas guardadas se marcan con un punto. 4 Total de personas por bloqu=
+e. Se agreg=C3=B3 la columna Personas (total) , que suma los conteos de todas=
+ las rondas de cada bloque (08=E2=80=9310, 11=E2=80=9313, 14=E2=80=9316 y 17=
+=E2=80=9320). 5 Edif. A y Edif. F, un solo equipo. Quienes trabajan en el Edi=
+f. A o en el Edif. F ahora pueden registrar rondas en ambas bibliotecas : Bas=
+ta con elegir la biblioteca al empezar la ronda. PRUEBA EN VI=C3=91A DEL MAR =
+=C2=B7 22-10 Prueba Espacios Tiempo en SharePoint Guardar ronda de las 13:00 =
+26 Menos de 1 s Correcci=C3=B3n 1 6 Menos de 1 s Correcci=C3=B3n 2 6 Menos de=
+ 1 s Correcci=C3=B3n 3 7 Menos de 1 s Cada correcci=C3=B3n queda registrada c=
+on qui=C3=A9n la hizo, cu=C3=A1ndo y el n=C3=BAmero anterior. Adjunto nuevame=
+nte el manual breve con los pasos para actualizar la app. Abrir Power Apps BU=
+AI =E2=86=92 &nbsp; Ver listas en SharePoint Cualquier duda o sugerencia, me =
+escriben. Saludos.
 
---===============8302486705286729000==
+--===============8785898656651624166==
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 MIME-Version: 1.0
@@ -65,7 +65,7 @@ m:2px solid #BFC3C8"><div style=3D"font-size:10px;letter-spacing:3px;color:#B=
 FC3C8">BIBLIOTECAS UAI =C2=B7 POWER APPS BUAI</div><div style=3D"font-size:19=
 px;font-weight:700;margin-top:4px">Contador de personas: Nueva versi=C3=B3n</=
 div><div style=3D"font-size:12px;color:#BFC3C8;margin-top:4px">Disponible a p=
-artir de las 08:00 horas</div></div>
+artir de hoy, viernes 23-10, a las 08:00 horas</div></div>
 <p style=3D"font-size:13.5px;line-height:1.55;margin:16px 0 0">Estimad@s:</p>
 <p style=3D"font-size:13.5px;line-height:1.55;margin:12px 0 0">Gracias a sus =
 comentarios, publicamos una nueva versi=C3=B3n del Contador. Desde ahora los =
@@ -224,4 +224,4 @@ harePoint</a></p>
 gerencia, me escriben.<br>Saludos.</p>
 </div></div></body></html>
 
---===============8302486705286729000==--
+--===============8785898656651624166==--
