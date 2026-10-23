@@ -1,0 +1,28 @@
+{
+  "Resources": [
+    {
+      "Name": "FondoDescarte",
+      "Schema": "i",
+      "IsSampleData": false,
+      "IsWritable": false,
+      "Type": "ResourceInfo",
+      "FileName": "09f6e34f-6c15-47e6-ae07-0233a2608a0a.png",
+      "Path": "Assets\\Images\\09f6e34f-6c15-47e6-ae07-0233a2608a0a.png",
+      "Content": "Image",
+      "ResourceKind": "LocalFile",
+      "RootPath": "https://dsprdil107eus.blob.core.windows.net/a24cbaef-9286-4b06-97d9-04cbb8e634d7-1/resource/MDlmNmUzNGYtNmMxNS00N2U2LWFlMDctMDIzM2EyNjA4YTBh.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-10-23T04%3A39%3A54Z&ske=2026-10-24T04%3A54%3A54Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2026-10-24T04%3A54%3A54Z&sr=b&sp=r&sig=oWgxGrTN4HRGbwaqCMHTOsQvl%2FNZKqrTbudlG9LK1GI%3D"
+    },
+    {
+      "Name": "SampleImage",
+      "Schema": "i",
+      "IsSampleData": true,
+      "IsWritable": false,
+      "Type": "ResourceInfo",
+      "FileName": "/ctrllib/image/images/SampleImage.svg",
+      "Path": "/ctrllib/image/images/SampleImage.svg",
+      "Content": "Image",
+      "ResourceKind": "Uri",
+      "RootPath": "ms-appx:///ctrllib/image/images/SampleImage.svg"
+    }
+  ]
+}

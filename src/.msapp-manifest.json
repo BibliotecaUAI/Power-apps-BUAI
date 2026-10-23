@@ -1,0 +1,250 @@
+[
+ {
+  "name": "Header.json",
+  "compress": 8
+ },
+ {
+  "name": "Properties.json",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\4.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\InventarioM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\94.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\MarbetesM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\182.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\MorososM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\268.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\PerfilM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\438.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\PrestamosM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\555.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\scrIngDetalle.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\619.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\ConsultarEjemplar.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\673.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\scrDescarteB.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\834.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\Morosos.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\946.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\Screen3.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\947.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\Portadamenu.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\1094.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\PortadamenuM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\1254.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\Prestamos.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\1402.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\scrIngRegistro.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\1519.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\Perfil.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\1660.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\Marbetes.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\1762.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\Inventario.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\1858.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\ConsultarEjemplarM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\1929.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\Ingresomaterial.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\2038.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\Contador.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\2155.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\ContadorM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\2298.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\DescarteM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\2458.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\IngRegistroM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\2591.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\IngresomaterialM.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Controls\\1.json",
+  "compress": 8
+ },
+ {
+  "name": "Src\\App.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "Src\\_EditorState.pa.yaml",
+  "compress": 8
+ },
+ {
+  "name": "References\\Themes.json",
+  "compress": 8
+ },
+ {
+  "name": "References\\DataSources.json",
+  "compress": 8
+ },
+ {
+  "name": "References\\ModernThemes.json",
+  "compress": 8
+ },
+ {
+  "name": "References\\Resources.json",
+  "compress": 8
+ },
+ {
+  "name": "References\\Templates.json",
+  "compress": 8
+ },
+ {
+  "name": "AppCheckerResult.sarif",
+  "compress": 8
+ },
+ {
+  "name": "Resources\\PublishInfo.json",
+  "compress": 8
+ },
+ {
+  "name": "Resources\\mwtgwr0m.jpg",
+  "compress": 8
+ },
+ {
+  "name": "Assets\\Images\\09f6e34f-6c15-47e6-ae07-0233a2608a0a.png",
+  "compress": 8
+ }
+]
