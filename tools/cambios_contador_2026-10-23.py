@@ -469,3 +469,10 @@ renumerar([pc, m])
 pc.guardar()
 m.guardar()
 print("Cambios aplicados en Contador y ContadorM.")
+
+# ---------------------------------------------------------------- ajuste posterior (23-10, tarde)
+# El equipo de Edif. A y Edif. F puede cambiar entre esas dos bibliotecas sin ser jefatura:
+# en btnBibACt/btnBibFCt (y sus pares M) la condición `varCtBib <> "A"` / `varCtBib <> "F"`
+# pasó a `!(varCtBib in ["A", "F"])`. Postgrado y Viña siguen fijas según la ficha de Personal.
+# Además: filtro de fecha más angosto (htmlPerCt 212 de ancho en X 646; btnPerHoyCt 204 en X 650),
+# contenido centrado, y se quitaron los botones ocultos btnPerSemCt / btnPerSemCtM.
